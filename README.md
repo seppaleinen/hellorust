@@ -1,0 +1,2 @@
+# hellorust
+Testing out rust
