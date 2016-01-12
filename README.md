@@ -1,6 +1,10 @@
 # hellorust
 Testing out rust
 
+<a href="https://travis-ci.org/seppaleinen/hellorust">
+        <img src="https://travis-ci.org/seppaleinen/hellorust.svg" data-bindattr-817="817" title="Build Status Images"/>
+</a>
+
 
 ###Commands
 ```
