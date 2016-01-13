@@ -10,6 +10,8 @@ Testing out rust
 ```
 cargo build
 cargo build --release
+cargo doc
+cargo test
 cargo run
 ```
 
