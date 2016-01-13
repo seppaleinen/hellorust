@@ -1,3 +1,5 @@
+extern crate module;
+
 #[test]
 fn first_test() {
     let result = "Hello";
