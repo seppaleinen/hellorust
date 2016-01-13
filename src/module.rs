@@ -1,7 +1,11 @@
+#[macro_use]
+extern crate log;
+
 /// #Public function yo
 /// ###Takes String and returns String
 pub fn yo(string: String) -> String {
     let result = string + " OK";
+    info!("Result: {:?}", result);
     return result;
 }
 
