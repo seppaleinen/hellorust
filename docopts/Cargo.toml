@@ -1,10 +1,6 @@
 [package]
-name = "hellorust"
+name = "docopts"
 version = "0.1.0"
 authors = ["David Eriksson <davideriksson@swedenmail.com>"]
 
 [dependencies]
-log = "0.3.4"
-
-[lib]
-name = "module"

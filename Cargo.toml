@@ -1,0 +1,11 @@
+[package]
+name = "basic"
+version = "0.1.0"
+authors = ["David Eriksson <davideriksson@swedenmail.com>"]
+
+[dependencies]
+log = "0.3.4"
+docopts = { path = "docopts" }
+
+[lib]
+name = "module"
