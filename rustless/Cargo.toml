@@ -1,6 +1,0 @@
-[package]
-name = "rustless"
-version = "0.1.0"
-authors = ["David Eriksson <davideriksson@swedenmail.com>"]
-
-[dependencies]

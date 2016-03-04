@@ -1,0 +1,14 @@
+[package]
+name = "helloiron"
+version = "0.1.0"
+authors = ["David Eriksson <davideriksson@swedenmail.com>"]
+
+[[bin]]
+name = "helloiron"
+path = "src/main.rs"
+
+[dependencies]
+iron = "*"
+router = "*"
+hyper = "*"
+rustc-serialize = "*"
