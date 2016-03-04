@@ -6,6 +6,7 @@ authors = ["David Eriksson <davideriksson@swedenmail.com>"]
 [dependencies]
 log = "0.3.4"
 docopts = { path = "docopts" }
+rustless = { path = "rustless" }
 
 [lib]
 name = "module"
